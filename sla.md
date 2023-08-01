@@ -1,1 +1,12 @@
-oloco meu
+Comandos git
+1- git init (cria um repositorio dentro da pasta que o comando foi dado)
+2- git add . (prepara todos os arquivos para serem commitados)
+3- git status(informa os arquivos que estão preparados para serem enviados)
+4- git commit -m "mensagem"(efetivamente faz um commit com uma mensagem)
+5- git branch -M "nome"(renomeia a branch)
+6- git remote add origin (faz conexão do meu repositório local com o github)
+7- git push -u origin main (sobe efetivamente o repositório local para o github)
+8- git checkout -b "mensagem" (cria uma nova branche muda pra ela)
+9- git checkout (muda para uma determinada branch)
+10- git clone (clona um repositorio do github para meu computador)
+11- git pull (puxa alterações feitas no repositório)
